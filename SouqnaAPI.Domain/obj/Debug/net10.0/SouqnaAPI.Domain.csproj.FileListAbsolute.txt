@@ -1,0 +1,11 @@
+D:\الشغل\Souqna\Backend\SouqnaAPI.Domain\bin\Debug\net10.0\SouqnaAPI.Domain.deps.json
+D:\الشغل\Souqna\Backend\SouqnaAPI.Domain\bin\Debug\net10.0\SouqnaAPI.Domain.dll
+D:\الشغل\Souqna\Backend\SouqnaAPI.Domain\bin\Debug\net10.0\SouqnaAPI.Domain.pdb
+D:\الشغل\Souqna\Backend\SouqnaAPI.Domain\obj\Debug\net10.0\SouqnaAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\الشغل\Souqna\Backend\SouqnaAPI.Domain\obj\Debug\net10.0\SouqnaAPI.Domain.AssemblyInfoInputs.cache
+D:\الشغل\Souqna\Backend\SouqnaAPI.Domain\obj\Debug\net10.0\SouqnaAPI.Domain.AssemblyInfo.cs
+D:\الشغل\Souqna\Backend\SouqnaAPI.Domain\obj\Debug\net10.0\SouqnaAPI.Domain.csproj.CoreCompileInputs.cache
+D:\الشغل\Souqna\Backend\SouqnaAPI.Domain\obj\Debug\net10.0\SouqnaAPI.Domain.dll
+D:\الشغل\Souqna\Backend\SouqnaAPI.Domain\obj\Debug\net10.0\refint\SouqnaAPI.Domain.dll
+D:\الشغل\Souqna\Backend\SouqnaAPI.Domain\obj\Debug\net10.0\SouqnaAPI.Domain.pdb
+D:\الشغل\Souqna\Backend\SouqnaAPI.Domain\obj\Debug\net10.0\ref\SouqnaAPI.Domain.dll
